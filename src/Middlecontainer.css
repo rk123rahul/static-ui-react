@@ -1,0 +1,20 @@
+.middlecontainer01{
+    background-color: #fff;
+    width: 100%;
+    background-image: url(./asset/images/Asset\ 13.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+  } 
+  .btns{
+    width: 130px;
+    height: 130px;
+    background: linear-gradient(135deg,#17d2e3,#1098b4)
+  }
+  .texts{
+    position: relative;
+    top: 40px;
+    font-size: larger;
+  }
+  .btns{
+    margin: 10px;
+  }
